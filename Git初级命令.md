@@ -41,9 +41,6 @@
   - 查看配置信息
     + `git config --list`
 
-### cd
-  change directory
-
 ### git中的忽略文件的配置
   - 在.git隐藏目录所在目录创建一个名为.gitignore的文件，在该文件中配置忽略信息
   >  /tmp.txt    # 表示忽略根目录的tmp.txt文件
@@ -84,6 +81,7 @@
  - `git log` `git log --oneline` 显示所有提交的日志
   - `git reset --hard Head~0` 回退到最后一次提交.
   - `git reset --hard [版本号]`回退到指定的版本号
+  
 ### git reflog命令
   - 可以查看每一次对版本的操作。
 
