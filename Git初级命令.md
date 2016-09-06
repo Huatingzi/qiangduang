@@ -110,9 +110,7 @@
   - `git checkout -b [分支名] `
   - .net vs 2013;//
 
-## github
 
-- 注册账号
 
 ### github与git
   - github是一个网站, 提供了git服务器的功能
@@ -144,11 +142,6 @@
   - 创建之后就可以使用这个变量来代替地址使用.
 
   - 在push时还可以加上-u参数，表示当前分支与指定的分支进行关联，下次push就不需要指定分支名了。
-
-```javascript
-  var name = "小明"
-```
-
 
 ### 工具
  - shadowsock
